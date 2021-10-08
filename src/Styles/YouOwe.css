@@ -1,0 +1,27 @@
+.label-class{
+    font-family: 'Poppins', sans-serif;   
+    color: #091130;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.text-class{
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(2, 2, 2);
+    font-weight: normal;
+}
+
+.btn-block{
+    background-color: #1F1456;
+}
+
+.btn-settleall{
+    background-color: #1F1456;
+    top: 500px;
+}
+
+.button-corner {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}

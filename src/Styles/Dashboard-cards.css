@@ -1,0 +1,23 @@
+.cardContainer{
+    flex: 12;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flexBlock{
+    flex: 3;
+    margin-top: 10px;
+    margin-left: 55px;
+
+    
+}
+
+.card-body{
+        text-align: center  ;
+}
+
+hr{
+        color: #3b0a79;
+        height: 3px !important;
+}
+

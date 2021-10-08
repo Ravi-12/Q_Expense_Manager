@@ -1,0 +1,21 @@
+.label-class{
+    font-family: 'Poppins', sans-serif;   
+    color: #091130;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.text-class{
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(2, 2, 2);
+    font-weight: normal;
+}
+
+.btn-block{
+    background-color: #1F1456;
+}
+
+/* .youowe-container {
+    max-height: 15rem;
+    overflow-y: auto;
+} */

@@ -1,0 +1,11 @@
+.logo-title{
+    font-family: 'Inter', sans-serif;
+    color: #fff;
+    margin-left: 5px;
+    margin-top: 2px;
+}
+
+.alertMessage{
+    font-family: 'Inter', sans-serif;
+    color: #481F90;
+}
